@@ -1,4 +1,4 @@
-## Atividade proposta pela Faculdade Senac
+## Cadastro de produtos
 
 1) Implementa em Java uma classe que representa um Fornecedor:
    a)Cada fornecedor possui como atributos, seu CNPJ (uma String), seu telefone (uma String) e o seu nome (uma String).
